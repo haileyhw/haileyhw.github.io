@@ -1,6 +1,6 @@
 # Site
 title:              'NOT NOW, WHEN?'
-bio:                '개발자라면, 블로그'
+bio:                '개발자라면'
 description:        "hailey의 시끄러운 블로그"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog

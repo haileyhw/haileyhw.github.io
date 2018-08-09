@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 
 defaults:
 - scope:
-    path: ''
+    path: 'haileyhw.github.io'
     type: posts
   values:
     permalink: "/blog/:title/"

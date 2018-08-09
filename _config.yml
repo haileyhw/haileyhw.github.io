@@ -1,7 +1,7 @@
 # Site
-title:              '호두웅'
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              'NOT NOW, WHEN?'
+bio:                '개발자라면, 블로그'
+description:        "hailey의 시끄러운 블로그"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
